@@ -28,9 +28,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: 新媒体课题报告
       tag: ML
-    - name: Computer Vision
+    - name: 文章
       tag: CV
     - name: NLP
       tag: NLP
